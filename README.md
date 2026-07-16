@@ -1,2 +1,0 @@
-# operators
-uploading operators file
